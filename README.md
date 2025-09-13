@@ -1,33 +1,37 @@
+# 📰 InNews – Personalized News at Your Fingertips
 
+> Stay updated with the latest trending stories, explore your favorite topics, and discover news that matters – all in one place.  
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
-[![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-360/)   
+---
 
-## [Watch Tutorial for this project](https://youtu.be/HHYqpHwGDgQ)
-<img src="https://github.com/Spidy20/InNews/blob/master/thumb.jpg">
+## 🌐 Live Access
+- 🎥 [Tutorial Video](https://youtu.be/HHYqpHwGDgQ)  
+- 🚀 [Try the Demo](https://share.streamlit.io/spidy20/innews/App.py)  
 
-## [Demo of App](https://share.streamlit.io/spidy20/innews/App.py)
+---
 
-## Source
-- For summarizing the news I have used [Newspaper3k](https://newspaper.readthedocs.io/en/latest/)
-- For scraping the news I have used Google News RSS API.
+## 🔎 Why InNews?
+InNews is a **Streamlit-based web app** that delivers real-time, summarized news articles with a clean, user-friendly interface.  
+No clutter. No distractions. Just the news you want.  
 
-## Features
-- Trending News
-- Favorite Topics
-- Search News
-- Quantity control
+**Key Highlights:**
+- 🏆 Trending News Feed  
+- 🎯 Personalized Topics  
+- 🔍 Keyword Search  
+- ⚖️ Quantity Control (short or detailed summaries)  
 
-## Usage
-- Clone my repository.
-- Open CMD in working directory.
-- Run following command.
-  ```
-  pip install -r requirements.txt
-  ```
-- `App.py` is the main Python file of Streamlit Web-Application. 
-- To run app, write following command in CMD. or use any IDE.
-  ```
-  streamlit run App.py --server.port 80
-  ```
-- 
+---
+
+## 🛠 How It Works
+1. **Fetch News** → Using **Google News RSS API**  
+2. **Summarize Content** → Powered by **Newspaper3k**  
+3. **Interactive UI** → Built with **Streamlit**  
+
+---
+
+## 🚀 Quick Start
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/rohankumarps18/In-News-master.git
+cd In-News-master
