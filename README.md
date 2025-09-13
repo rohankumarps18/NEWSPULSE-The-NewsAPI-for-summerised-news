@@ -6,7 +6,6 @@
 
 ## 🌐 Live Access
 - 🎥 [Tutorial Video](https://youtu.be/HHYqpHwGDgQ)  
-- 🚀 [Try the Demo](https://share.streamlit.io/spidy20/innews/App.py)  
 
 ---
 
